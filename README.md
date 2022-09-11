@@ -16,3 +16,11 @@ Esse repositório tem como objetivo guardar e mostrar meus projetos pessoais que
 * [LinkedIn](https://www.linkedin.com/in/carlosfab)
 * [Medium](https://medium.com/@vitorrosar.fsc)
 
+
+## Projetos:
+Veja alguns projetos que já fiz:
+
+* **Detecção de câncer maligno e benigno** https://bit.ly/3L6sEvB
+* **Máquina Prditiva que Calcula Preço de Casa** https://bit.ly/3eGUB0U
+* **
+
