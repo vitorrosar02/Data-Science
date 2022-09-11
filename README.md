@@ -21,6 +21,6 @@ Esse repositório tem como objetivo guardar e mostrar meus projetos pessoais que
 Veja alguns projetos que já fiz:
 
 * **Detecção de câncer maligno e benigno** https://bit.ly/3L6sEvB
-* **Máquina Prditiva que Calcula Preço de Casa** https://bit.ly/3eGUB0U
+* **Máquina Prditiva que Calcula Preço de Casa** https://bit.ly/3RyOU3v
 * **Página Web que Calcula o Preço de um Diamante** https://bit.ly/3DxboxZ
 
