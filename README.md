@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/vitorrosar02/Data-Science/blob/main/istockphoto-1139874114-170667a%20(1).png" >
+  <img src="https://github.com/vitorrosar02/Data-Science/blob/main/istockphoto-1139874114-170667a%20(2).png" >
 </p>
 
 # Vitor Rosar Martins
