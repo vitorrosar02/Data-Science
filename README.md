@@ -22,5 +22,5 @@ Veja alguns projetos que já fiz:
 
 * **Detecção de câncer maligno e benigno** https://bit.ly/3L6sEvB
 * **Máquina Prditiva que Calcula Preço de Casa** https://bit.ly/3eGUB0U
-* **
+* **Estimativa de Prços de Diamantes** https://bit.ly/3L66j1l
 
